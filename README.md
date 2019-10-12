@@ -1,5 +1,11 @@
 # Udacity - Big Data - Apache Spark
 
+# Sparkify
+Capstone Project, Udacity Data Science Nanodegree
+
+Github Repo:https://github.com/iamrajeshchauhan/Data_scientist_udacity_2019
+
+
 ## Installation
 The following was used for the environment setup:
 
@@ -33,3 +39,6 @@ Vector Assembler:
 
 ## Acknowledgements
 The data was taken from the following (https://s3.amazonaws.com/video.udacity-data.com/topher/2018/December/5c1d6681_medium-sparkify-event-data/medium-sparkify-event-data.json)
+
+## The Data Science Project blog
+ Medium channel - [here](https://medium.com/@0rajeshchauhan/udacity-big-data-apache-spark-8689eec055e2?sk=481c0549d68d20d4d99cdda16056735c).
