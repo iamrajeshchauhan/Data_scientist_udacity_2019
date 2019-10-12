@@ -1,3 +1,5 @@
+
+![](https://img.deusm.com/darkreading/1331840_Slideshow/Slide1CoverArt.jpg)
 # Udacity - Big Data - Apache Spark
 
 # Sparkify
